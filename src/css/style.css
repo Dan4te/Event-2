@@ -1,0 +1,17 @@
+body {
+    color: #999;
+}
+
+.fields-game {
+    width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.fields {
+    width: 150px;
+    height: 150px;
+    margin: 0 15px 30px;
+    background: gray;
+    border-radius: 10%;
+  }
